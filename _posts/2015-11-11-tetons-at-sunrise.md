@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T21:59:39.026Z'
-dateModified: '2015-11-11T21:59:29.241Z'
+datePublished: '2015-11-11T22:02:49.306Z'
+dateModified: '2015-11-11T22:02:43.062Z'
 title: Tetons at Sunrise
+sourcePath: _posts/2015-11-11-tetons-at-sunrise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-11-tetons-at-sunrise.md
-published: true
 url: tetons-at-sunrise/index.html
 _type: Article
 
