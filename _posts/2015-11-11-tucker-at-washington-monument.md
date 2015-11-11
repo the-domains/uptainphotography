@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T21:52:39.039Z'
-dateModified: '2015-11-11T21:52:28.575Z'
+datePublished: '2015-11-11T22:00:17.611Z'
+dateModified: '2015-11-11T22:00:14.993Z'
 title: "Tucker at Washington Monument\_"
+sourcePath: _posts/2015-11-11-tucker-at-washington-monument.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-11-tucker-at-washington-monument.md
-published: true
 url: tucker-at-washington-monument/index.html
 _type: Article
 
