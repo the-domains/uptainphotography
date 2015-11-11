@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[UptainPhotography]]></title>
         <description><![CDATA[UptainPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uptainphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:52:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 21:56:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uptainphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pitons at Sunrise, St Lucia ]]></title>
+            <description><![CDATA[<article><h1>Pitons at Sunrise, St Lucia </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99027966-be34-4a85-a489-87525df5ae65.jpg"></article>]]></description>
+            <link>https://thegrid.ai/uptainphotography/pitons-at-sunrise-st-lucia/index.html</link>
+            <guid isPermaLink="false">56a88b54-2a79-4eb5-aff9-febdebfe5e92</guid>
+            <pubDate>Wed, 11 Nov 2015 21:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tucker at Washington Monument ]]></title>
             <description><![CDATA[<article><h1>Tucker at Washington Monument </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d55e6f6-5196-420e-8113-5da3df616334.JPG"></article>]]></description>
-            <link>undefinedtucker-at-washington-monument/index.html</link>
+            <link>https://thegrid.ai/uptainphotography/tucker-at-washington-monument/index.html</link>
             <guid isPermaLink="false">534a8ef0-852c-47d2-8a66-dd2d8cdf3fd8</guid>
             <pubDate>Wed, 11 Nov 2015 21:52:39 GMT</pubDate>
         </item>
