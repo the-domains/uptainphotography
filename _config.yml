@@ -1,6 +1,6 @@
 name: UptainPhotography
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c2c5ca'
     - '#0d0d0d'
   brandStrength: 0
-  lightness: 0.5183764593675733
-  saturation: 0.7673549931496382
+  lightness: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.888488732278347
 purpose: []
