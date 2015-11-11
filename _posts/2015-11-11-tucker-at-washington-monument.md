@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T22:00:17.611Z'
-dateModified: '2015-11-11T22:00:14.993Z'
+datePublished: '2015-11-11T22:11:58.438Z'
+dateModified: '2015-11-11T22:11:52.898Z'
 title: "Tucker at Washington Monument\_"
 sourcePath: _posts/2015-11-11-tucker-at-washington-monument.md
 published: true
