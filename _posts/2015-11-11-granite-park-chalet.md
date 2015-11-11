@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T23:13:43.878Z'
-dateModified: '2015-11-11T23:13:23.872Z'
+datePublished: '2015-11-11T23:14:14.238Z'
+dateModified: '2015-11-11T23:14:09.073Z'
 title: "Granite Park Chalet\_"
+sourcePath: _posts/2015-11-11-granite-park-chalet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-11-granite-park-chalet.md
-published: true
 url: granite-park-chalet/index.html
 _type: Article
 
