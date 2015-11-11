@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T22:11:58.438Z'
-dateModified: '2015-11-11T22:11:52.898Z'
+datePublished: '2015-11-11T22:25:25.631Z'
+dateModified: '2015-11-11T22:25:23.345Z'
 title: "Tucker at Washington Monument\_"
 sourcePath: _posts/2015-11-11-tucker-at-washington-monument.md
 published: true
