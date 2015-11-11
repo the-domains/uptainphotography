@@ -1,0 +1,23 @@
+name: UptainPhotography
+favicon: null
+layout_spectrum: 0.7888995937537402
+typography_spectrum: 0.07714710594154894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9774835871066898
+  lightness: 0.5183764593675733
+  saturation: 0.7673549931496382
+  rhythmicContrast: 0.888488732278347
+purpose: []
