@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T22:23:58.719Z'
-dateModified: '2015-11-11T22:23:51.547Z'
+datePublished: '2015-11-11T22:24:57.417Z'
+dateModified: '2015-11-11T22:24:55.104Z'
 title: Tetons at Sunrise
 sourcePath: _posts/2015-11-11-tetons-at-sunrise.md
 published: true
