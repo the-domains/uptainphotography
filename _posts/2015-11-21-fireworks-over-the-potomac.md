@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-21T20:15:26.240Z'
-dateModified: '2015-11-21T20:15:14.927Z'
+datePublished: '2015-11-21T20:20:17.969Z'
+dateModified: '2015-11-21T20:18:47.322Z'
 title: Fireworks over the Potomac
 author: []
 authors: []
@@ -23,3 +23,4 @@ _type: Article
 
 ---
 # Fireworks over the Potomac
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee4f466-2bd3-416a-b1e8-f2be7cb4fb62.jpg)
