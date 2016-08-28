@@ -3,20 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T23:14:14.238Z'
-dateModified: '2015-11-11T23:14:09.073Z'
+datePublished: '2016-08-27T14:01:34.912Z'
+dateModified: '2016-08-27T14:01:34.778Z'
 title: "Granite Park Chalet\_"
 sourcePath: _posts/2015-11-11-granite-park-chalet.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+author:
+  - name: ''
+    url: ''
+via: {}
+starred: false
 url: granite-park-chalet/index.html
 _type: Article
 
