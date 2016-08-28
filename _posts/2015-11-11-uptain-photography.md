@@ -1,27 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2015-11-11T22:48:01.399Z'
-dateModified: '2015-11-11T22:47:54.356Z'
-title: Uptain Photography
+datePublished: '2016-08-27T14:13:44.591Z'
 sourcePath: _posts/2015-11-11-uptain-photography.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-27T14:13:44.308Z'
+title: Uptain Photography
+publisher: {}
+description: Test of a caption
+inLanguage: null
+inNav: false
+starred: true
 url: uptain-photography/index.html
 _type: Article
 
 ---
 # Uptain Photography
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5de9107-142a-4419-9d49-1baa413e747a.jpg)
+![Test of a caption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5de9107-142a-4419-9d49-1baa413e747a.jpg)
 
-This is a test of more text on the featured item
+* Test of a bullet
